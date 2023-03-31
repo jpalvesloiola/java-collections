@@ -1,5 +1,5 @@
-# java-collections
- Java Collections: Dominando Listas, Sets e Mapas
+# Java Collections:
+## Dominando Listas, Sets e Mapas
 
 Neste curso pude ter uma visão mais abstrata da API Collections da linguagem Java:
 
